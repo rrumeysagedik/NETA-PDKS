@@ -1,0 +1,11 @@
+C:\Users\ARGENB01\source\repos\deneme2\deneme2\bin\x86\Debug\deneme2.exe
+C:\Users\ARGENB01\source\repos\deneme2\deneme2\bin\x86\Debug\deneme2.pdb
+C:\Users\ARGENB01\source\repos\deneme2\deneme2\bin\x86\Debug\Interop.zkemkeeper.dll
+C:\Users\ARGENB01\source\repos\deneme2\deneme2\obj\x86\Debug\deneme2.csprojAssemblyReference.cache
+C:\Users\ARGENB01\source\repos\deneme2\deneme2\obj\x86\Debug\deneme2.Form1.resources
+C:\Users\ARGENB01\source\repos\deneme2\deneme2\obj\x86\Debug\deneme2.Properties.Resources.resources
+C:\Users\ARGENB01\source\repos\deneme2\deneme2\obj\x86\Debug\deneme2.csproj.GenerateResource.cache
+C:\Users\ARGENB01\source\repos\deneme2\deneme2\obj\x86\Debug\deneme2.csproj.CoreCompileInputs.cache
+C:\Users\ARGENB01\source\repos\deneme2\deneme2\obj\x86\Debug\deneme2.csproj.CopyComplete
+C:\Users\ARGENB01\source\repos\deneme2\deneme2\obj\x86\Debug\deneme2.exe
+C:\Users\ARGENB01\source\repos\deneme2\deneme2\obj\x86\Debug\deneme2.pdb

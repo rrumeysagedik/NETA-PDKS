@@ -1,0 +1,50 @@
+C:\Users\ARGENB01\source\repos\deneme2\deneme2\bin\Debug\deneme2.exe
+C:\Users\ARGENB01\source\repos\deneme2\deneme2\bin\Debug\deneme2.pdb
+C:\Users\ARGENB01\source\repos\deneme2\deneme2\bin\Debug\Interop.zkemkeeper.dll
+C:\Users\ARGENB01\source\repos\deneme2\deneme2\obj\Debug\deneme2.Form1.resources
+C:\Users\ARGENB01\source\repos\deneme2\deneme2\obj\Debug\deneme2.Properties.Resources.resources
+C:\Users\ARGENB01\source\repos\deneme2\deneme2\obj\Debug\deneme2.csproj.GenerateResource.cache
+C:\Users\ARGENB01\source\repos\deneme2\deneme2\obj\Debug\deneme2.csproj.CoreCompileInputs.cache
+C:\Users\ARGENB01\source\repos\deneme2\deneme2\obj\Debug\deneme2.csproj.CopyComplete
+C:\Users\ARGENB01\source\repos\deneme2\deneme2\obj\Debug\deneme2.exe
+C:\Users\ARGENB01\source\repos\deneme2\deneme2\obj\Debug\deneme2.pdb
+C:\Users\ARGENB01\source\repos\deneme2\deneme2\obj\Debug\deneme2.csprojAssemblyReference.cache
+C:\Users\ARGENB01\source\repos\deneme2\deneme2\bin\Debug\deneme2.exe.config
+C:\Users\ARGENB01\source\repos\deneme2\deneme2\obj\Debug\deneme2.csproj.ResolveComReference.cache
+C:\Users\Rumeysa\Desktop\deneme2\deneme2\deneme2\bin\Debug\Interop.zkemkeeper.dll
+C:\Users\Rumeysa\Desktop\deneme2\deneme2\deneme2\obj\Debug\deneme2.csprojAssemblyReference.cache
+C:\Users\Rumeysa\Desktop\deneme2\deneme2\deneme2\obj\Debug\deneme2.csproj.ResolveComReference.cache
+C:\Users\Rumeysa\Desktop\deneme2\deneme2\deneme2\obj\Debug\deneme2.Form1.resources
+C:\Users\Rumeysa\Desktop\deneme2\deneme2\deneme2\obj\Debug\deneme2.Properties.Resources.resources
+C:\Users\Rumeysa\Desktop\deneme2\deneme2\deneme2\obj\Debug\deneme2.csproj.GenerateResource.cache
+C:\Users\Rumeysa\Desktop\deneme2\deneme2\deneme2\obj\Debug\deneme2.csproj.CoreCompileInputs.cache
+C:\Users\Rumeysa\Desktop\deneme2\deneme2\deneme2\obj\Debug\deneme2.csproj.CopyComplete
+C:\Users\Rumeysa\Desktop\deneme2\deneme2\deneme2\bin\Debug\NETA PDKS.exe.config
+C:\Users\Rumeysa\Desktop\deneme2\deneme2\deneme2\bin\Debug\NETA PDKS.exe
+C:\Users\Rumeysa\Desktop\deneme2\deneme2\deneme2\bin\Debug\NETA PDKS.pdb
+C:\Users\Rumeysa\Desktop\deneme2\deneme2\deneme2\obj\Debug\NETA PDKS.exe
+C:\Users\Rumeysa\Desktop\deneme2\deneme2\deneme2\obj\Debug\NETA PDKS.pdb
+C:\Users\ARGENB01\Desktop\songün\deneme2\deneme2\deneme2\deneme2\bin\Debug\NETA PDKS.exe.config
+C:\Users\ARGENB01\Desktop\songün\deneme2\deneme2\deneme2\deneme2\bin\Debug\NETA PDKS.exe
+C:\Users\ARGENB01\Desktop\songün\deneme2\deneme2\deneme2\deneme2\bin\Debug\NETA PDKS.pdb
+C:\Users\ARGENB01\Desktop\songün\deneme2\deneme2\deneme2\deneme2\obj\Debug\deneme2.csprojAssemblyReference.cache
+C:\Users\ARGENB01\Desktop\songün\deneme2\deneme2\deneme2\deneme2\obj\Debug\deneme2.csproj.ResolveComReference.cache
+C:\Users\ARGENB01\Desktop\songün\deneme2\deneme2\deneme2\deneme2\obj\Debug\deneme2.Form1.resources
+C:\Users\ARGENB01\Desktop\songün\deneme2\deneme2\deneme2\deneme2\obj\Debug\deneme2.Properties.Resources.resources
+C:\Users\ARGENB01\Desktop\songün\deneme2\deneme2\deneme2\deneme2\obj\Debug\deneme2.csproj.GenerateResource.cache
+C:\Users\ARGENB01\Desktop\songün\deneme2\deneme2\deneme2\deneme2\obj\Debug\deneme2.csproj.CoreCompileInputs.cache
+C:\Users\ARGENB01\Desktop\songün\deneme2\deneme2\deneme2\deneme2\obj\Debug\deneme2.csproj.CopyComplete
+C:\Users\ARGENB01\Desktop\songün\deneme2\deneme2\deneme2\deneme2\obj\Debug\NETA PDKS.exe
+C:\Users\ARGENB01\Desktop\songün\deneme2\deneme2\deneme2\deneme2\obj\Debug\NETA PDKS.pdb
+F:\PROJELERİM\NETA PDKS\deneme2\deneme2\deneme2\deneme2\bin\Debug\NETA PDKS.exe.config
+F:\PROJELERİM\NETA PDKS\deneme2\deneme2\deneme2\deneme2\bin\Debug\NETA PDKS.exe
+F:\PROJELERİM\NETA PDKS\deneme2\deneme2\deneme2\deneme2\bin\Debug\NETA PDKS.pdb
+F:\PROJELERİM\NETA PDKS\deneme2\deneme2\deneme2\deneme2\bin\Debug\Interop.zkemkeeper.dll
+F:\PROJELERİM\NETA PDKS\deneme2\deneme2\deneme2\deneme2\obj\Debug\deneme2.csprojAssemblyReference.cache
+F:\PROJELERİM\NETA PDKS\deneme2\deneme2\deneme2\deneme2\obj\Debug\Interop.zkemkeeper.dll
+F:\PROJELERİM\NETA PDKS\deneme2\deneme2\deneme2\deneme2\obj\Debug\deneme2.csproj.ResolveComReference.cache
+F:\PROJELERİM\NETA PDKS\deneme2\deneme2\deneme2\deneme2\obj\Debug\deneme2.Form1.resources
+F:\PROJELERİM\NETA PDKS\deneme2\deneme2\deneme2\deneme2\obj\Debug\deneme2.Properties.Resources.resources
+F:\PROJELERİM\NETA PDKS\deneme2\deneme2\deneme2\deneme2\obj\Debug\deneme2.csproj.GenerateResource.cache
+F:\PROJELERİM\NETA PDKS\deneme2\deneme2\deneme2\deneme2\obj\Debug\NETA PDKS.exe
+F:\PROJELERİM\NETA PDKS\deneme2\deneme2\deneme2\deneme2\obj\Debug\NETA PDKS.pdb

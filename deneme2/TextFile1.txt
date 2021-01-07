@@ -1,0 +1,5 @@
+﻿OK 1)Order By Hatasını Düzelt
+OK 2)Soldaki Gridde LeftView Listesi göstereceğim.
+ OK3)Excel'e Aktarma kontrol
+OK4)Sabah Mesai, Akşam Mesai alanları ekleme
+OK 5)Shift hesabının kontrolü
